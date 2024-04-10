@@ -1,6 +1,6 @@
 # **Insights on ExtraJudicial Killings in Kenya.**
 
-![Killings](/images/killings.jpg)
+![Killings](/images/killings.jpg){:width="500px" height="300px"}
 
 ## **Introduction**
 
