@@ -3,7 +3,7 @@
 <img src="/images/killings.jpg" width="1000" height="800">
 
 
-Photo:[https://www.gettyimages.com/photos/kenya-police]
+[[Photo](https://www.gettyimages.com/photos/kenya-police)
 
 
 
@@ -77,6 +77,10 @@ The dataset was obtained by scraping data from the Missing Voices website. Subse
 ## Limitations
 
 Insufficient data limits the ability to fully analyze trends and patterns. More data collection is needed to overcome this limitation and gain a better understanding of the situation.
+
+## References
+
+[Missing Voices](https://www.missingvoices.or.ke/) - Visit the Missing Voices website for more information on extrajudicial killings in Kenya.
 
 
 
