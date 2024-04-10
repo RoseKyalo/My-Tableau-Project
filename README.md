@@ -2,8 +2,6 @@
 
 ![Killings](/images/killings.jpg)
 
-<img src="images.jpg" alt="image" width="1000" height="400">
-
 ## **Introduction**
 
 Among the 17 global goals, one crucial aim is to ensure peace, justice, and strong institutions. This objective encompasses several specific targets, including:
