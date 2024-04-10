@@ -60,8 +60,17 @@ The dataset was obtained by scraping data from the Missing Voices website. Subse
 
 ![Year](/images/YearMonth.png)
 
-## **Recommendations**
+## Recommendations
 
+1. **Research on 2021 Spikes:** Conduct further research to understand the reasons behind the surge in extrajudicial killings during 2021.
+
+2. **Gun Ownership Reforms:** Advocate for reforms to regulate gun ownership and usage, aiming to prevent unauthorized firearm use and reduce extrajudicial killings.
+
+3. **Law Enforcement Overhaul:** Push for a comprehensive overhaul of law enforcement practices, focusing on training, protocols, and accountability mechanisms to ensure adherence to human rights standards and ethical conduct.
+   
+## Limitations
+
+Insufficient data for limits the ability to fully analyze trends and patterns. More data collection is needed to overcome this limitation and gain a better understanding of the situation.
 
 
 
