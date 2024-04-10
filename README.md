@@ -57,7 +57,7 @@ The dataset was obtained by scraping data from the Missing Voices website. Subse
 
 ![County](/images/Sex%20per%20County.png)
 
-`This gender disproportion is consistent across all counties, with males being the most affected. The peak age for extrajudicial killings is 22, indicating a significant impact on young males in particular.`
+`Gender disproportion is consistent across all counties, with males being the most affected. The peak age for extrajudicial killings is 22, indicating a significant impact on young males in particular.`
 
 ![Sex](/images/Age%20and%20Sex.png)
 
@@ -79,7 +79,9 @@ Insufficient data limits the ability to fully analyze trends and patterns. More 
 
 ## References
 
-[Missing Voices](https://www.missingvoices.or.ke/) - Visit the Missing Voices website for more information on extrajudicial killings in Kenya.
+1. [Missing Voices](https://www.missingvoices.or.ke/) - Visit the Missing Voices website for more information on extrajudicial killings in Kenya.
+
+2. [Global Goals](https://globalgoals.org/) - Explore the Global Goals website for information on global efforts towards peace, justice, and strong institutions.
 
 ### Contact
 For questions, feedback, or additional information, feel free to reach out:
