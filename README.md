@@ -50,7 +50,7 @@ Nairobi County recorded the highest number of deaths, notably among males with a
 
 ![County](/images/Sex%20per%20County.png)
 
-![Sex](/images/Age and Sex.png)
+![Sex](/images/Age%20and%20Sex.png)
 
 
  
