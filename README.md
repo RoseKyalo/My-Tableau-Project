@@ -39,7 +39,21 @@ Data cleaning and preparation were conducted using Tableau and Excel. These tool
 
 ## **Findings**
 It is evident that extrajudicial killings are happening across the country with incidents reported in every county.This highlights the urgent need for policy changes and reforms across all counties to address this serious issue.
+
 ![Kenya](/images/Kenya.png)
+
+The predominant cause of death appears to be "Shot", with the highest frequency occurring among individuals aged 22. This suggests a concerning pattern of extrajudicial killings primarily affecting young people.
+
+![Manner of Death](/images/Age and Manner of Death.png)
+
+Nairobi County recorded the highest number of deaths, notably among males with a count of 210, whereas for females, the count was 4. This gender disproportion is consistent across all counties, with males being the most affected. The peak age for fatalities is 22, indicating a significant impact on young males in particular.
+
+![Sex](/images/Sex.png)
+
+ 
+In 2021, the highest number of deaths, totaling 192, was recorded. Notably, both February and May experienced peaks in extrajudicial killings, with September marking the lowest count. The significance of these patterns underscores the imperative for further research into the factors contributing to the elevated extrajudicial killings in 2021.
+
+![Year](/images/YearMonth.png)
 
 
 
