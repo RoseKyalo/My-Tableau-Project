@@ -41,23 +41,23 @@ Data cleaning and preparation were conducted using Tableau and Excel. These tool
 The dataset was obtained by scraping data from the Missing Voices website. Subsequently, the data was converted into an Excel file for further processing. To enhance the analysis in Tableau, I performed feature engineering on the county column, enabling precise identification of locations. Additionally, I addressed null values, particularly in the Name column, which were encoded as "unknown". These null values were filtered out using Tableau's filtering feature. The analysis was predominantly conducted using Tableau, leveraging its powerful visualization capabilities to derive insights from the data.
 
 ## **Findings**
-`1. It is evident that extrajudicial killings are happening across the country with incidents reported in every county.This highlights the urgent need for policy changes and reforms across all counties to address this serious issue.`
+`It is evident that extrajudicial killings are happening across the country with incidents reported in every county.This highlights the urgent need for policy changes and reforms across all counties to address this serious issue.`
 
 ![Kenya](/images/Kenya.png)
 
-`2. The predominant cause of death appears to be "Shot","Torture" and "Missing" with the highest frequency occurring among individuals aged 22. This suggests a concerning pattern of extrajudicial killings primarily affecting young people.`
+`The predominant cause of death appears to be "Shot","Torture" and "Missing" with the highest frequency occurring among individuals aged 22. This suggests a concerning pattern of extrajudicial killings primarily affecting young people.`
 
 ![Manner of Death](/images/Age%20and%20Manner%20of%20Death.png)
 
-`3. Nairobi County recorded the highest number of deaths, notably among males with a count of 210, whereas for females, the count was 4.` 
+`Nairobi County recorded the highest number of deaths, notably among males with a count of 210, whereas for females, the count was 4.` 
 
 ![County](/images/Sex%20per%20County.png)
 
-`4. This gender disproportion is consistent across all counties, with males being the most affected. The peak age for extrajudicial killings is 22, indicating a significant impact on young males in particular.`
+`This gender disproportion is consistent across all counties, with males being the most affected. The peak age for extrajudicial killings is 22, indicating a significant impact on young males in particular.`
 
 ![Sex](/images/Age%20and%20Sex.png)
 
-`5. In 2021, the highest number of deaths, totaling 192, was recorded. Notably, both February and May experienced peaks in extrajudicial killings, with September marking the lowest count. The significance of these patterns underscores the imperative for further research into the factors contributing to the elevated extrajudicial killings in 2021.`
+`In 2021, the highest number of deaths, totaling 192, was recorded. Notably, both February and May experienced peaks in extrajudicial killings, with September marking the lowest count. The significance of these patterns underscores the imperative for further research into the factors contributing to the elevated extrajudicial killings in 2021.`
 
 ![Year](/images/YearMonth.png)
 
@@ -71,7 +71,7 @@ The dataset was obtained by scraping data from the Missing Voices website. Subse
    
 ## Limitations
 
-Insufficient data for limits the ability to fully analyze trends and patterns. More data collection is needed to overcome this limitation and gain a better understanding of the situation.
+Insufficient data limits the ability to fully analyze trends and patterns. More data collection is needed to overcome this limitation and gain a better understanding of the situation.
 
 
 
