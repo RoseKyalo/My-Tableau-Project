@@ -1,6 +1,7 @@
 # **Insights on ExtraJudicial Killings in Kenya.**
 
-<img src="images.jpg" alt="image" width="1000" height="400">
+!`[Killings](/images/Killings.jpeg)
+# <img src="images.jpg" alt="image" width="1000" height="400">
 
 ## **Introduction**
 
@@ -11,6 +12,7 @@ Among the 17 global goals, one crucial aim is to ensure peace, justice, and stro
 2. **Target 16.3:** To promote the rule of law at the national and international levels and ensure equal access to justice for all.
 
 3. **Target 16.6:** To develop effective, accountable and transparent institutions at all levels.
+   
 **`Extrajudicial killings`**—those carried out without legal authority—fall under these targets. They represent a violation of the rule of law and justice and hinder efforts to reduce violence.
 
 In Kenya, according to Missing voices a campaign group focused on extrajudicial killings,there has been 1,264 cases since 2017 when it started collecting the data.It is reported that only a handful of police officers have been convicted through investigations done by Independent Policing Oversight Authority (IPOA).
