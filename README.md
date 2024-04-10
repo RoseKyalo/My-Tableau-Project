@@ -48,7 +48,7 @@ The predominant cause of death appears to be "Shot", with the highest frequency 
 
 Nairobi County recorded the highest number of deaths, notably among males with a count of 210, whereas for females, the count was 4. This gender disproportion is consistent across all counties, with males being the most affected. The peak age for fatalities is 22, indicating a significant impact on young males in particular.
 
-![County](/images/Sex per County.png)
+![County](/images/Sex%20per%20County.png)
 
 ![Sex](/images/Age and Sex.png)
 
