@@ -1,6 +1,7 @@
 # **Insights on ExtraJudicial Killings in Kenya.**
 
 <img src="/images/killings.jpg" width="1000" height="800">
+
 [Photo](https://www.gettyimages.com/photos/kenya-police)
 
 
