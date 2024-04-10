@@ -2,6 +2,7 @@
 
 ![Killings](/images/killings.jpg){:width="500px" height="300px"}
 
+
 ## **Introduction**
 
 Among the 17 global goals, one crucial aim is to ensure peace, justice, and strong institutions. This objective encompasses several specific targets, including:
