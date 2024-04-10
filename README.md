@@ -81,6 +81,15 @@ Insufficient data limits the ability to fully analyze trends and patterns. More 
 
 [Missing Voices](https://www.missingvoices.or.ke/) - Visit the Missing Voices website for more information on extrajudicial killings in Kenya.
 
+### Contact
+For questions, feedback, or additional information, feel free to reach out:
+
+Rose Kyalo
+
+Email: rosekyalo94@gmail.com
+
+Twitter: @rose_kawila
+
 
 
               
