@@ -39,6 +39,7 @@ Data cleaning and preparation were conducted using Tableau and Excel. These tool
 
 ## **Findings**
 It is evident that extrajudicial killings are happening across the country with incidents reported in every county.This highlights the urgent need for policy changes and reforms across all counties to address this serious issue.
+![Kenya](/images/Kenya.png)
 
 
 
