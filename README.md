@@ -11,7 +11,6 @@ Among the 17 global goals, one crucial aim is to ensure peace, justice, and stro
 2. **Target 16.3:** To promote the rule of law at the national and international levels and ensure equal access to justice for all.
 
 3. **Target 16.6:** To develop effective, accountable and transparent institutions at all levels.
-
 **`Extrajudicial killings`**—those carried out without legal authority—fall under these targets. They represent a violation of the rule of law and justice and hinder efforts to reduce violence.
 
 In Kenya, according to Missing voices a campaign group focused on extrajudicial killings,there has been 1,264 cases since 2017 when it started collecting the data.It is reported that only a handful of police officers have been convicted through investigations done by Independent Policing Oversight Authority (IPOA).
@@ -37,14 +36,17 @@ The data is sourced from Missing Voices website comprising 512 entries with the 
 ## **Tools**
 Data cleaning and preparation were conducted using Tableau and Excel. These tools facilitated the organization and analysis of the dataset, enabling us to derive meaningful insights into the issue of extrajudicial killings in Kenya.
 
+## Methodology
+The dataset was obtained by scraping data from the Missing Voices website. Subsequently, the data was converted into an Excel file for further processing. To enhance the analysis in Tableau, I performed feature engineering on the county column, enabling precise identification of locations. Additionally, I addressed null values, particularly in the Name column, which were encoded as "unknown". These null values were filtered out using Tableau's filtering feature. The analysis was predominantly conducted using Tableau, leveraging its powerful visualization capabilities to derive insights from the data.
+
 ## **Findings**
-It is evident that extrajudicial killings are happening across the country with incidents reported in every county.This highlights the urgent need for policy changes and reforms across all counties to address this serious issue.
+`1. It is evident that extrajudicial killings are happening across the country with incidents reported in every county.This highlights the urgent need for policy changes and reforms across all counties to address this serious issue.`
 
 ![Kenya](/images/Kenya.png)
 
 The predominant cause of death appears to be "Shot", with the highest frequency occurring among individuals aged 22. This suggests a concerning pattern of extrajudicial killings primarily affecting young people.
 
-![Manner of Death](/images/Age and Manner of Death.png)
+![Manner of Death](/images/Age%20and%20Manner%20of%20Death.png)
 
 Nairobi County recorded the highest number of deaths, notably among males with a count of 210, whereas for females, the count was 4. This gender disproportion is consistent across all counties, with males being the most affected. The peak age for fatalities is 22, indicating a significant impact on young males in particular.
 
